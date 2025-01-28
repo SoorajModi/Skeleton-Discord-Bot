@@ -56,7 +56,7 @@
     "markdown-it": "^13.0.0",
     "memejs": "2.0.1",
     "moment": "2.29.4",
-    "moment-timezone": "0.5.40",
+    "moment-timezone": "0.5.47",
     "mongoose": "6.4.6",
     "parse-duration": "1.0.2",
     "passport": "0.6.0",
